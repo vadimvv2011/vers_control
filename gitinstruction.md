@@ -69,9 +69,9 @@ git branch new_branch_name
 
 git checkout -b create_branches
 
-git branch
+Список существующих веток вызывается командой `git branch`
 
-git checkout master
+Перемещение между веток (обращение к ним) производится командой `git checkout имя_существующей_ветки`, например `git checkout master`
 
 ## 10. Слияние веток и разрешение конфликтов
 Для слияния ветки branch_name с текущей веткой выполнется команда `git merge branch_name`
