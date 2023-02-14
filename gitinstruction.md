@@ -49,7 +49,10 @@
 * --oneline
 * --graph
 
-или даже так `git log --oneline --graph`
+Целиком команда может выглядеть 
+* так `git log --online` 
+* или так `git log --graph`
+* или даже так `git log --oneline --graph`
 
 ## 7. Перемещение между сохранениями (версиями)
 
