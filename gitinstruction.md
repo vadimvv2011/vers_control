@@ -49,6 +49,8 @@
 * --oneline
 * --graph
 
+или даже так `git log --oneline --graph`
+
 ## 7. Перемещение между сохранениями (версиями)
 
 Осуществляется командой `git checkout code_of_commit`
