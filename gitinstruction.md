@@ -83,6 +83,11 @@ main^^ is the grandparent (second-generation ancestor) of main*
 
 Перемещение между веток (обращение к ним) производится командой `git checkout имя_существующей_ветки`, например `git checkout master`
 
+Посмотреть коммиты из всех веток можно с помощью параметра --all 
+```
+git log --oneline --graph --all
+```
+
 ### 10. Слияние веток и разрешение конфликтов
 Для слияния ветки branch_name с текущей веткой выполнется команда `git merge branch_name`
 
