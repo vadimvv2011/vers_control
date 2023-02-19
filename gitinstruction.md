@@ -166,3 +166,5 @@ git remote add repozitory_name repozitory_url
 ## Полезные ссылки:
 
 Git-тренажёр: `https://learngitbranching.js.org/`
+
+Скринкаст от Ильи Кантора (здесь разбирается очень много тем и много дополнительных команд) `https://vimeo.com/showcase/5616060`
